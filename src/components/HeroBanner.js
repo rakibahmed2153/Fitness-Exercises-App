@@ -15,11 +15,11 @@ const HeroBanner = () => {
       
       {/* Left Section */}
       <Typography color="#FE2625"
-      fontWidth="600" fontSize="26px">
+      fontWeight="600" fontSize="26px">
           Fitness Club
       </Typography>
 
-      <Typography fontWidth="700" 
+      <Typography fontWeight="700" 
        sx={{ fontSize: {lg: '44px', xs: '40px'} }}
        mb="23px" mt="30px">
           Sweat, Smile <br/> and Repeat
